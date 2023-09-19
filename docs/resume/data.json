@@ -1,0 +1,65 @@
+{
+   "personalData":{
+      "name":"Daniel Leite Lima",
+      "description":"Mobile software engineer  \n Android | iOS | KMM | Flutter | React Native",
+      "location":"Berlin, Germany",
+      "photoUrl":"https://avatars.githubusercontent.com/u/16729547?v=4"
+   },
+   "introduction":{
+      "title":"Hi there!",
+      "description":"I'm Daniel, a software engineer."
+   },
+   "skills":[
+      {
+         "description":"GraphQL",
+         "imageUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png"
+      }
+   ],
+   "experiences":[
+      {
+         "company":{
+            "name":"MAYD: Meds at your doorstep",
+            "period":"2 years",
+            "location":"Berlin, Germany"
+         },
+         "roles":[
+            {
+               "name":"Senior Android Engineer",
+               "period":"July 2021 - Present",
+               "description":"Responsible for building from scratch and maintaining the Android app."
+            }
+         ]
+      }
+   ],
+   "languages":[
+      {
+         "name":"Portuguese",
+         "level":4,
+         "description":"Native"
+      },
+      {
+         "name":"English",
+         "level":4,
+         "description":"Fluent"
+      },
+      {
+         "name":"German",
+         "level":1,
+         "description":"Basic"
+      }
+   ],
+   "education":[
+      {
+         "title":"Associate in Computer Systems",
+         "institution":"UNESA",
+         "period":"2019 - 2021",
+         "location":"Curitiba, Brazil"
+      },
+      {
+         "title":"Licentiate in Mathematics",
+         "institution":"Universidade Federal do Ceará",
+         "period":"2014 - 2018",
+         "location":"Fortaleza, Brazil"
+      }
+   ]
+}
